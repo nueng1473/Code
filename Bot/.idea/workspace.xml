@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee140a1a-2a43-421b-9b58-56b9c48fe3c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Bot_Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_Python3 in pycharm/Test0.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_Python3 in pycharm/Test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_Python3 in pycharm/Test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../code_Python3 in pycharm/Test3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/Thod srb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/Thod srb.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/Untitled2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../code_Python3 in jupyter notebook/Untitled2.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ixezLeipglPjfc3iUwwXAH4skD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee140a1a-2a43-421b-9b58-56b9c48fe3c4" name="Default Changelist" comment="" />
+      <created>1602853931700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602853931700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1602854175822">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602854175822" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1602854155251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602854155251" />
+  </component>
+</project>

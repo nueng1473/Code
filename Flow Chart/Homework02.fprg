@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="acer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-04 02:37:40 PM"/>
+        <attribute name="created" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwMjoyNzoyMyBQTTsgMjg2Nw=="/>
+        <attribute name="edited" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwMjozNzo0MCBQTTsgMjg2Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, sum" type="Integer" array="False" size=""/>
+            <assign variable="sum" expression="0"/>
+            <for variable="i" start="1" end="100" direction="inc" step="1">
+                <assign variable="sum" expression="i+sum"/>
+            </for>
+            <output expression="sum"/>
+        </body>
+    </function>
+</flowgorithm>

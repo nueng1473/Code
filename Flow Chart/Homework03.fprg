@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="acer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-04 03:25:40 PM"/>
+        <attribute name="created" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwMjo0MTo0NSBQTTsgMjg2Nw=="/>
+        <attribute name="edited" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwMzoyNTo0MCBQTTsgMjg2NQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="b, h, sum" type="Real" array="False" size=""/>
+            <input variable="b"/>
+            <input variable="h"/>
+            <assign variable="sum" expression="(b * h) / 2"/>
+            <output expression="sum"/>
+        </body>
+    </function>
+</flowgorithm>

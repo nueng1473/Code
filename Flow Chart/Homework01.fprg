@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.6">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="acer"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-04 02:27:19 PM"/>
+        <attribute name="created" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwOTo0NjozMSBBTTsgMjg1OQ=="/>
+        <attribute name="edited" value="YWNlcjsgREVTS1RPUC00RkxOU0dNOyAyMDIwLTExLTA0OyAwMjoyNzoxOSBQTTsgMjg3Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="x1, x2, x3, sum" type="Real" array="False" size=""/>
+            <input variable="x1"/>
+            <input variable="x2"/>
+            <input variable="x3"/>
+            <assign variable="sum" expression="(x1+x2+x3)/3"/>
+            <output expression="sum"/>
+        </body>
+    </function>
+</flowgorithm>
